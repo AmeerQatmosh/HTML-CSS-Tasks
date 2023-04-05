@@ -10,4 +10,4 @@
 
 ## Task3: 
 
-![image](https://user-images.githubusercontent.com/68341128/230143081-d7415051-a9f9-43fe-9312-ef28e24d7327.png)
+![image](https://user-images.githubusercontent.com/68341128/230154679-eaac4736-65a5-4a73-b34c-5deb4835b85e.png)
